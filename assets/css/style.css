@@ -1,8 +1,6 @@
 @charset "UTF-8";
 
-h1{
-   background-color:rgb(40,inherit );
-}
+
 body{
    background-image:url("web3.jpg");
    background-size:cover;
@@ -12,6 +10,4 @@ body{
 }
 body{
   color: #FFFFCC;
-  font-size: 15px;
-  font-family: 'Open Sans'
 }
