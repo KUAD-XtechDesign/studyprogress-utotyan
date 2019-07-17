@@ -2,5 +2,14 @@
 
 
 body{
-   background-color: #fffacd
+   background-image:url("web3.jpg");
+   background-size:cover;
+   background-repeat: no-repeat;
+   background-position: center bottom;
+   background-attachment: fixed;
+}
+body{
+  color: #FFFFCC;
+  font-size: 15px;
+  font-family: 'Open Sans'
 }
