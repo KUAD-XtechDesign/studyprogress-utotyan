@@ -8,6 +8,14 @@ body{
    background-position: center bottom;
    background-attachment: fixed;
 }
+
 body{
   color: #FFFFCC;
+  font-family: 'Noto Serif JP', sans-serif;
+}
+header{
+  text-align:center
+}
+main{
+  text-align:center
 }
